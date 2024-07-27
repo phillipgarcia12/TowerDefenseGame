@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://cgslwbn2eok8e"]
+
+[node name="FireT1" type="Node2D"]
+
+[node name="Base" type="Sprite2D" parent="."]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]

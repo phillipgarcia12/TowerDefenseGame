@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://b3boqijxp3aab"]
+
+[node name="base_tower_t1" type="Node2D"]
+
+[node name="TowerBase" type="Sprite2D" parent="."]
+
+[node name="PersonOnTower" type="AnimatedSprite2D" parent="."]
+
+[node name="Projectile" type="AnimatedSprite2D" parent="."]
